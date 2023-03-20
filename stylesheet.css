@@ -1,0 +1,73 @@
+h2 {
+  background-color: blue;
+  display: flex;
+  margin: 5px;
+  font-size: xx-large;
+}
+.pantry {
+  display: flex;
+  border: 50px;
+  margin: 30px;
+  align-items: center;
+}
+
+#canned {
+  display: flex;
+  border: 1.5px solid rgb(255, 247, 0);
+  background-color: rgb(220, 248, 7);
+  align-items: center;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+#drygoods {
+  display: flex;
+  border: 1.5px solid rgb(255, 247, 0);
+  background-color: rgb(220, 248, 7);
+  align-items: center;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+#Pic {
+  display: flex;
+  width: 200px;
+  height: 200px;
+}
+
+h4 {
+  font-size: xx-large;
+  background-color: brown;
+}
+
+#pic2 {
+  display: flex;
+  width: 200px;
+  height: 200px;
+}
+
+#veggies {
+  display: flex;
+  border: 1.5px solid rgb(255, 0, 0);
+  background-color: rgb(248, 7, 7);
+  align-items: center;
+  width: 300px;
+  border: 15px solid rgb(38, 0, 255);
+  padding: 50px;
+  margin: 20px;
+}
+
+#snacks {
+  display: flex;
+  border: 1.5px solid rgb(255, 0, 0);
+  background-color: rgb(248, 7, 7);
+  align-items: center;
+  width: 300px;
+  border: 15px solid rgb(38, 0, 255);
+  padding: 50px;
+  margin: 20px;
+}
